@@ -1,0 +1,10 @@
+E:\UILabs\Labo4\Labo4\bin\Debug\Labo4.exe.config
+E:\UILabs\Labo4\Labo4\bin\Debug\Labo4.exe
+E:\UILabs\Labo4\Labo4\bin\Debug\Labo4.pdb
+E:\UILabs\Labo4\Labo4\obj\Debug\Labo4.De.resources
+E:\UILabs\Labo4\Labo4\obj\Debug\Labo4.Form1.resources
+E:\UILabs\Labo4\Labo4\obj\Debug\Labo4.Properties.Resources.resources
+E:\UILabs\Labo4\Labo4\obj\Debug\Labo4.csproj.GenerateResource.Cache
+E:\UILabs\Labo4\Labo4\obj\Debug\Labo4.csproj.CoreCompileInputs.cache
+E:\UILabs\Labo4\Labo4\obj\Debug\Labo4.exe
+E:\UILabs\Labo4\Labo4\obj\Debug\Labo4.pdb
