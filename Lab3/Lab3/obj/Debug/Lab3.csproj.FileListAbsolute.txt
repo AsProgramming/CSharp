@@ -1,0 +1,9 @@
+E:\UILabs\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\UILabs\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\UILabs\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\UILabs\Lab3\Lab3\obj\Debug\Lab3.FrmPokemon.resources
+E:\UILabs\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\UILabs\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+E:\UILabs\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\UILabs\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\UILabs\Lab3\Lab3\obj\Debug\Lab3.pdb
