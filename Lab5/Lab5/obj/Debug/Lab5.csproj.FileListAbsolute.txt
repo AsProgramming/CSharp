@@ -1,0 +1,22 @@
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.Jardin.resources
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\As\Documents\Visual Studio 2017\Lab5\Lab5\obj\Debug\Lab5.pdb
+\\Vboxsvr\tp1s\Lab5\Lab5\bin\Debug\Lab5.exe.config
+\\Vboxsvr\tp1s\Lab5\Lab5\bin\Debug\Lab5.exe
+\\Vboxsvr\tp1s\Lab5\Lab5\bin\Debug\Lab5.pdb
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.Jardin.resources
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.exe
+\\Vboxsvr\tp1s\Lab5\Lab5\obj\Debug\Lab5.pdb
